@@ -1,0 +1,19 @@
+.CharactersCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 1.5rem 2rem 1.5rem 2rem;
+}
+
+.valor {
+  color: blue;
+  margin-left: 0.7rem;
+}
+.comics,
+.series,
+.stories {
+  display: flex;
+}

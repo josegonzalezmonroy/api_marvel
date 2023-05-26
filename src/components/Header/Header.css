@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #e23636;
+  height: 4rem;
+  padding: 1rem 2rem 1rem 2rem;
+  justify-content: space-between;
+}
+
+.h1{
+  color: 	#000;
+}
